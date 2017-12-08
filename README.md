@@ -266,7 +266,7 @@ Pythonを書くこと自体はちょっとしたテキストエディタで可�
 
 1. `Create new project`から新しいプロジェクトを作成
 2. プロジェクト名（デフォルトは`untitled`）を`seminar`とする
-3. pythonインタプリタまでのパスを指定する．`…`をクリックし，`Add local`を選択，`Conda Environment`から`Existing environment`を選択し，`Interpreter`から`seminar`のものを選択する．表示されない場合`…`から`C:\Users\{ユーザ名}\.conda\envs\seminar\python.exe`を指定．
+3. pythonインタプリタまでのパスを指定する．`…`をクリックし，`Add local`を選択，`Virtualenv Environment`または`Conda Environment`から`Existing environment`を選択し，`Interpreter`から`seminar`のものを選択する．表示されない場合`…`から`C:\Users\{ユーザ名}\.conda\envs\seminar\python.exe`を指定．
 4. `OK`
 5. 設定を開く
 6. `Project: seminar`から`Project Interpreter`を選択．`C:\Users\{ユーザ名}\.conda\envs\seminar\python.exe`が指定されていることを確認する
