@@ -25,3 +25,11 @@ if __name__ == '__main__':
     # 要素があるかどうか
     print(1 in a)
 
+
+    # forと併用できる優れもの
+    names = ['hoge', 'huga', 'foo', 'bar', 'piyo']
+    for name in names:
+        print(name)
+
+    for idx, name in enumerate(names):
+        print(idx, name)
