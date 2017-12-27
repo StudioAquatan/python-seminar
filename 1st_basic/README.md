@@ -13,13 +13,6 @@
 
 ## スライド
 
-### 基本文法 by taxio
+- [基本文法 by taxio](https://speakerdeck.com/taxio/python-seminar1)
+- [環境構築 by pudding](https://speakerdeck.com/pddg/di-1hui-pythonjiang-zuo-huan-jing-gou-zhu-bian)
 
-<div style="max-width: 600px">
-<script async class="speakerdeck-embed" data-id="8c2a4d1962ee4c0cb194f23181df6668" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
-</div>
-
-### 環境構築 by pudding
-
-<div style="max-width: 600px">
-<script async class="speakerdeck-embed" data-id="b7f7e8f993884699b5ab23247f8f0cb8" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script></div>
